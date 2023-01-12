@@ -1,1 +1,3 @@
-# nshah28-Automated-Learning-and-Data-Analysis-project
+# Authorship Identification Using Enron Email Dataset
+# PID: P26
+Team: Nirav Shah (nshah28), Vrushanki Patel (vpatel25), Sourabh Wattamwar (sswattam)
